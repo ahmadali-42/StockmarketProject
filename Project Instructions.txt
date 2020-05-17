@@ -1,0 +1,26 @@
+
+INSTRUCTIONS:
+	
+1) Start up a trading day by clicking on start button.
+
+2) choose an investor you like by clicking on table left side.
+
+3) choose up a company by clicking on table on right side.
+
+4) System will verify the investor budget, if eligble than investor can buy shares.
+
+5) if company is elligble to sell shares, it will be allow to sell otherwise not.
+
+6) share price will reduce by 2% after every 10 shares sold, a red notification will be appear on top left side.
+
+7) if all shares are sold and all budget is 0 then simulator will end up.
+
+8) Reports will show up in a a menu.
+
+9) select reports to view in a table down below.
+
+
+Restrictions:
+
+1) Fields must not be empty
+2) invalid transections are not allowed.

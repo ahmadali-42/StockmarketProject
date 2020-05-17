@@ -1,0 +1,24 @@
+
+PROJECT FEATURES:
+
+1) Project will start up a trading day
+
+2) Generate random 100 Investor and Companies tampletes according to instructions give.
+
+3) Allows administrator to search specific company OR investor by selecting ID.
+
+4) Gives feature of buying shares according to instructions.
+
+5) Reduce up share price if any 10 shares sold of those companies who dosen't sold yet.
+
+6) Increase up price to double for those companies who sold 10 shares.
+
+7) If all shares sold and no investor budget left than, simulator will end up.
+
+8) Gives format of 4 selected reports.
+
+9) Company can view reports (HIGH or LOW) capital wise.
+
+10) Investors can view reports (High or LOW) shares wise.
+
+11) Atterective UI and Visuals.
